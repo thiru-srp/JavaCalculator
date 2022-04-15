@@ -32,7 +32,7 @@ public class Calculator {
 
         public long mulFucn(long first, long second){
 
-                return first/second;
+                return first*second;
         }
 	
 	public static void main(String[] args) {
